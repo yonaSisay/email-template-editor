@@ -73,7 +73,7 @@ export default class EmailEditorContainer extends React.Component {
 
 	render() {
 		return (
-			<div className="space-y-6 pb-4 px-4 h-full w-full py-8">
+			<div className="space-y-6 pb-4 flex flex-col px-4 h-full w-full py-8">
 				<div className="flex justify-between">
 					<div className="flex gap-x-4">
 						<input
